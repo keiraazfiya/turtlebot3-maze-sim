@@ -1,5 +1,8 @@
 Code for the "bot":
 
+
+*Can be downloaded in the file maze_solver.py:*
+
 #! /usr/bin/env python3
 
 # This node sets the initial starting position of our Turtlebot in the RViz2 map and also sets the goal point that the robot has to reach in the RViz2 map - and sets our robot in motion.
