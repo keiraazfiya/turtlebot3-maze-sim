@@ -1,5 +1,7 @@
 "Map" Code:
 
+Can be downloaded in the file: tb3_maze_navigation.launch.py
+
 #!/usr/bin/env python3
 #
 # Copyright 2019 ROBOTIS CO., LTD.
