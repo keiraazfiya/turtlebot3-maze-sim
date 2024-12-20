@@ -17,3 +17,5 @@ Technologies Used:
 Objective:
 The project demonstrates the potential of using simulation tools like Gazebo and ROS2 to solve real-world robotic navigation problems. By achieving autonomous maze-solving, the project serves as a foundation for more complex navigation tasks in robotics.
 
+Reference: 
+- https://github.com/Preetamk97/Autonomous-Maze-Solving-Turtlebot3-Simulation/ 
